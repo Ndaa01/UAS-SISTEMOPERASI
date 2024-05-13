@@ -13,4 +13,4 @@
 |  |  |  |
 |--|--|--|
 |**No**| **Fitur** | **Detail** |
-| 1 | | Membuat Direktori | | Menggunakan perintah MKDIR | 
+| 1 | Membuat Direktori | Menggunakan perintah MKDIR |
